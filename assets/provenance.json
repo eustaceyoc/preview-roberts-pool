@@ -1,0 +1,51 @@
+{
+  "note": "Editorial stock photographs used for mood only. None shows Robert's Pool Service, its owner, staff, customers, equipment or completed work.",
+  "license": {
+    "name": "Pexels License",
+    "url": "https://www.pexels.com/license/"
+  },
+  "photos": [
+    {
+      "file": "assets/images/brick-house-pool.jpg",
+      "placement": "Hero background",
+      "source": "Pexels",
+      "photoId": 7587480,
+      "title": "Brown and White Concrete House Near Swimming Pool",
+      "photographer": "Max Vakhtbovych",
+      "page": "https://www.pexels.com/photo/brown-and-white-concrete-house-near-swimming-pool-7587480/",
+      "originalFile": "https://images.pexels.com/photos/7587480/pexels-photo-7587480.jpeg",
+      "derivation": "Resized to 1800x1201 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/deck-pool.jpg",
+      "placement": "Pool care section",
+      "source": "Pexels",
+      "photoId": 4177666,
+      "title": "Swimming Pool Surrounded with Wooden Deck",
+      "photographer": "Engin Akyurt",
+      "page": "https://www.pexels.com/photo/swimming-pool-surrounded-with-wooden-deck-4177666/",
+      "originalFile": "https://images.pexels.com/photos/4177666/pexels-photo-4177666.jpeg",
+      "derivation": "Resized to 1200x800 and re-compressed as JPEG. No other edits."
+    }
+  ],
+  "fonts": [
+    {
+      "family": "Libre Baskerville",
+      "files": [
+        "assets/fonts/libre-baskerville-italic-400.woff2",
+        "assets/fonts/libre-baskerville-normal-400.woff2",
+        "assets/fonts/libre-baskerville-normal-700.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "family": "Karla",
+      "files": [
+        "assets/fonts/karla-normal-400_700.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}
